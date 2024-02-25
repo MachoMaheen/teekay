@@ -37,14 +37,7 @@ const IteckGatsbyvercelappByHtm: NextPage = () => {
                         src="/about-10-1jpg@2x.png"
                       />
                     </div>
-                    <div className="self-stretch h-[190px] flex flex-col items-start justify-center">
-                      <img
-                        className="w-full flex-1 relative max-w-[269.5px] overflow-hidden max-h-[190px] object-cover"
-                        loading="eager"
-                        alt=""
-                        src="/about2-2png@2x.png"
-                      />
-                    </div>
+                    <div className="self-stretch h-[190px] flex flex-col items-start justify-center"></div>
                   </div>
                   <div className="h-[536px] flex-1 flex flex-col items-start justify-start pt-0 px-2 pb-10 box-border gap-[16px] min-w-[114px] max-w-[571px] ml-[-6px] mq950:max-w-full">
                     <div className="self-stretch h-40 flex flex-col items-start justify-center">
