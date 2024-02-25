@@ -150,7 +150,7 @@ const Footer: NextPage = () => {
               </div>
             </div>
           </div> */}
-          <div className="flex flex-col items-start justify-start py-0 px-[15px] box-border max-w-[1170px] z-[1] ml-[-4px] font-iteck-gatsbyvercelapp-font-awesome-5-brands-regular-144 mq1425:max-w-full">
+          {/* <div className="flex flex-col items-start justify-start py-0 px-[15px] box-border max-w-[1170px] z-[1] ml-[-4px] font-iteck-gatsbyvercelapp-font-awesome-5-brands-regular-144 mq1425:max-w-full">
             <div className="flex flex-row items-start justify-start py-0 pr-0 pl-[87.5px] gap-[5px] mq450:pl-5 mq450:box-border">
               <div
                 className="rounded-8xs flex flex-row items-start justify-end pt-[13.300000190734863px] pb-[12.300000190734863px] pr-[13px] pl-[15px] cursor-pointer border-[1px] border-solid border-iteck-gatsbyvercelapp-nero-20"
@@ -183,7 +183,7 @@ const Footer: NextPage = () => {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>
